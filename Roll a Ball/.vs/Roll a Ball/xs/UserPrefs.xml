@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8F0A54F0-5A0E-B6A5-A79C-E691566A2314}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Game Dev Jose Unity Tutorial/Assets/Scripts/ObjectScript.cs">
+    <Files>
+      <File FileName="../Game Dev Jose Unity Tutorial/Assets/Scripts/PlayerMove.cs" Line="22" Column="10" />
+      <File FileName="../Game Dev Jose Unity Tutorial/Assets/Scripts/ObjectScript.cs" Line="7" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
